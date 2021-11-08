@@ -1,0 +1,46 @@
+1636398459556	geckodriver	INFO	Listening on 127.0.0.1:64020
+1636398459588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofilebnGFSD"
+*** You are running in headless mode.
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1636398463765	Marionette	INFO	Listening on port 64029
+1636398482356	geckodriver	INFO	Listening on 127.0.0.1:64083
+1636398483368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofilepxrzMT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1636398485456	Marionette	INFO	Listening on port 64094
+1636398485538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636398561463	Marionette	INFO	Stopped listening on port 64094
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636400074449	geckodriver	INFO	Listening on 127.0.0.1:64334
+1636400075457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofileEqSid4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1636400078011	Marionette	INFO	Listening on port 64345
+1636400078123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636400088479	Marionette	INFO	Stopped listening on port 64345
+1636400501908	geckodriver	INFO	Listening on 127.0.0.1:64471
+1636400502914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofilemhdLn7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1636400505094	Marionette	INFO	Listening on port 64482
+1636400505205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636400517994	Marionette	INFO	Stopped listening on port 64482
+1636400525490	geckodriver	INFO	Listening on 127.0.0.1:64593
+1636400526498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofileoxK5d6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1636400528999	Marionette	INFO	Listening on port 64604
+1636400529078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636400539881	Marionette	INFO	Stopped listening on port 64604
+1636400545908	geckodriver	INFO	Listening on 127.0.0.1:64709
+1636400546917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofile5CjWVi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1636400549303	Marionette	INFO	Listening on port 64720
+1636400549396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636400560485	Marionette	INFO	Stopped listening on port 64720
+1636400566793	geckodriver	INFO	Listening on 127.0.0.1:64829
+1636400567799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jp/ybh0kfts33xdlz6__vn9slwc0000gn/T/rust_mozprofiledKtAnu"
+*** You are running in headless mode.
